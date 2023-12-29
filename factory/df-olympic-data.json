@@ -1,0 +1,9 @@
+{
+	"name": "df-olympic-data",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d78f2ce-3105-4d25-87c9-1913ee76c0b8",
+		"tenantId": "6b26b650-3d85-46b5-aa01-b591db89a27f"
+	}
+}
